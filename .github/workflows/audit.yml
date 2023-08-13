@@ -1,4 +1,4 @@
-# source: https://github.com/LukeMathWalker/zero-to-production/blob/main/.github/workflows/general.yml
+# source: https://gist.github.com/LukeMathWalker/5ae1107432ce283310c3e601fac915f3
 name: Security audit
 on:
   schedule:
